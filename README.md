@@ -1,4 +1,3 @@
-# Gurkha.Signals
 <div align="center">
   <img src="assets/Gorkha.Signals.png" alt="Gorkha Signals logo" width="180" />
 
