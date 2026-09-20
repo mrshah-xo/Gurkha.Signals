@@ -28,7 +28,7 @@ The project is being developed around NASA's 2026 challenge **“Be An Earth Sys
 ---
 ## Dashboard protoype
 <div align="center">
-  <img src="assets/Dashboard_prototype.png" alt="Dashboard" width="180" />
+  <img src="assets/dashboard_prototype.png" alt="Dashboard" width="1000" />
 
 ## The Challenge
 
