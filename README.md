@@ -26,6 +26,9 @@ Instead of presenting scientific data as isolated maps or charts, Gorkha Signals
 The project is being developed around NASA's 2026 challenge **“Be An Earth System Trend Detective!”**, which asks participants to work with Earth-system data and investigate patterns across weather, precipitation, land-surface, atmospheric, and related observations.
 
 ---
+## Dashboard protoype
+<div align="center">
+  <img src="assets/Dashboard_prototype.png" alt="Dashboard" width="180" />
 
 ## The Challenge
 
