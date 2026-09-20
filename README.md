@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Gorkha.Signals.png" alt="Gorkha Signals logo" width="180" />
+  <img src="assets/Gorkha_Signal.png" alt="Gorkha Signals logo" width="180" />
 
   # Gorkha Signals
 
