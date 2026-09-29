@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/Gorkha_Signal.png" alt="Gorkha Signals logo" width="180" />
+  <img src="assets/Gurkha.png" alt="Gorkha Signals logo" width="180" />
 
-  # Gorkha Signals
+  # Gurkha Signals
 
   ### NASA Space Apps Challenge 2026
   **Be An Earth System Trend Detective!**
